@@ -11,10 +11,10 @@ const Login = () => {
             <div>
             <input type="password" placeholder="Senha" />
             </div>
+            <button> Entrar </button>
+
         </form>
       </div>      
-
-           
       
 
   )
